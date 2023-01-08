@@ -1,0 +1,7 @@
+Import metadata from a bibtex file
+===========================
+
+Created by Teodor Dahl Knutsen
+
+Requires calibre >= 0.7.53
+
